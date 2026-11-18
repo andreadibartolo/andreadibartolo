@@ -1,4 +1,7 @@
-## Hi, i'm Andrea👋🏻
+# Hi, i'm Andrea👋🏻
+
+## 💻 full stack developer
+I am a developer and student focused on building practical solutions for real-world problems. I enjoy bridging the gap between clean frontend interfaces and efficient backend logic.
 
 <!--
 **andreadibartolo/andreadibartolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
