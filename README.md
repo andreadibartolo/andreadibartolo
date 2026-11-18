@@ -1,19 +1,18 @@
 # Hi, i'm Andrea👋🏻
 
-## 💻 full stack developer
-I am a developer and student focused on building practical solutions for real-world problems. I enjoy bridging the gap between clean frontend interfaces and efficient backend logic.
+### 🎓 Educational background
+I've a high school diploma in Information Technology from a Technical Industrial Institute, with a final grade of 98/100 (italian grading system).
 
-<!--
-**andreadibartolo/andreadibartolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 What I do
+I'm a developer who really enjoys building custom solutions to address problems or meet specific needs, adapting them to my own requirements or to someone else's.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Version Control & Deployment
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### IDE & Operating Systems
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/PyCharm-00c648?style=for-the-badge&logo=pycharm) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+### 📫 Let's Connect
+- **Location:** Italy 🇮🇹
